@@ -1,0 +1,118 @@
+[
+  {
+    "id": 1791560813788,
+    "date": "09/10/2026",
+    "companyEmail": "semogajunkyucomback..@gmail..com",
+    "statusAI": "{\"error\":\"Key: 'UserRequest.Email' Error:Field validation for 'Email' failed on the 'email' tag\"}"
+  },
+  {
+    "id": 1791559549298,
+    "date": "09/10/2026",
+    "companyEmail": "m.royhan.maulana.86@gmail.com",
+    "statusAI": "{\"error\":\"Max request with m.royhan.maulana.86@gmail.com exceed\"}"
+  },
+  {
+    "id": 1791559286857,
+    "date": "09/10/2026",
+    "companyEmail": "trihandayanitanpaatgmail.com",
+    "statusAI": "{\"error\":\"Key: 'UserRequest.Email' Error:Field validation for 'Email' failed on the 'email' tag\"}"
+  },
+  {
+    "id": 1791559144934,
+    "date": "09/10/2026",
+    "companyEmail": "nisetrih@gmail.com",
+    "statusAI": "{\"Messages\":[{\"Status\":\"success\",\"To\":[{\"Email\":\"nisetrih@gmail.com\",\"MessageUUID\":\"b953e57c-76d7-49ab-810e-09f3cf421743\",\"MessageID\":288230417029189400,\"MessageHref\":\"https://api.mailjet.com/v3/REST/message/288230417029189393\"}],\"Cc\":[],\"Bcc\":[]}]}"
+  },
+  {
+    "id": 1791559092899,
+    "date": "09/10/2026",
+    "companyEmail": "yochiyoshi64@gmail.com",
+    "statusAI": "{\"Messages\":[{\"Status\":\"success\",\"To\":[{\"Email\":\"yochiyoshi64@gmail.com\",\"MessageUUID\":\"2864fe70-37bd-48f4-b52a-2f76f84f642a\",\"MessageID\":576460793145626500,\"MessageHref\":\"https://api.mailjet.com/v3/REST/message/576460793145626474\"}],\"Cc\":[],\"Bcc\":[]}]}"
+  },
+  {
+    "id": 1791559074896,
+    "date": "09/10/2026",
+    "companyEmail": "nungguinyahhh.@gmail.com",
+    "statusAI": "{\"error\":\"Key: 'UserRequest.Email' Error:Field validation for 'Email' failed on the 'email' tag\"}"
+  },
+  {
+    "id": 1791559004714,
+    "date": "09/10/2026",
+    "companyEmail": "nungguinyahhh.@gmail.com",
+    "statusAI": "{\"error\":\"Key: 'UserRequest.Email' Error:Field validation for 'Email' failed on the 'email' tag\"}"
+  },
+  {
+    "id": 1791558928764,
+    "date": "09/10/2026",
+    "companyEmail": "nungguinyahhh.@gmail.com",
+    "statusAI": "{\"error\":\"Key: 'UserRequest.Email' Error:Field validation for 'Email' failed on the 'email' tag\"}"
+  },
+  {
+    "id": 1791558687875,
+    "date": "09/10/2026",
+    "companyEmail": "nisetrih@gmail.com",
+    "statusAI": "{\"Messages\":[{\"Status\":\"success\",\"To\":[{\"Email\":\"nisetrih@gmail.com\",\"MessageUUID\":\"ee87650c-9eb6-4e73-881d-21242b8d7623\",\"MessageID\":288230417028740800,\"MessageHref\":\"https://api.mailjet.com/v3/REST/message/288230417028740821\"}],\"Cc\":[],\"Bcc\":[]}]}"
+  },
+  {
+    "id": 1791558158516,
+    "date": "09/10/2026",
+    "companyEmail": "trihandayaninise@gmail.com",
+    "statusAI": "{\"Messages\":[{\"Status\":\"success\",\"To\":[{\"Email\":\"trihandayaninise@gmail.com\",\"MessageUUID\":\"61532414-ef20-4e40-bfff-87211d53755b\",\"MessageID\":1152921545422915600,\"MessageHref\":\"https://api.mailjet.com/v3/REST/message/1152921545422915653\"}],\"Cc\":[],\"Bcc\":[]}]}"
+  },
+  {
+    "id": 1791558073758,
+    "date": "09/10/2026",
+    "companyEmail": "nisetrih@gmail.com",
+    "statusAI": "{\"Messages\":[{\"Status\":\"success\",\"To\":[{\"Email\":\"nisetrih@gmail.com\",\"MessageUUID\":\"1a93f84f-f9a8-46bf-b9d1-43c1bef7b0be\",\"MessageID\":288230417028019840,\"MessageHref\":\"https://api.mailjet.com/v3/REST/message/288230417028019822\"}],\"Cc\":[],\"Bcc\":[]}]}"
+  },
+  {
+    "id": 1791557592710,
+    "date": "09/10/2026",
+    "companyEmail": "hyunsukhyunsuk@gmail.com",
+    "statusAI": "{\"Messages\":[{\"Status\":\"success\",\"To\":[{\"Email\":\"hyunsukhyunsuk@gmail.com\",\"MessageUUID\":\"f2b9f133-aa16-48a0-b5e9-fccd5afa83fb\",\"MessageID\":576460793144053100,\"MessageHref\":\"https://api.mailjet.com/v3/REST/message/576460793144053097\"}],\"Cc\":[],\"Bcc\":[]}]}"
+  },
+  {
+    "id": 1791557288787,
+    "date": "09/10/2026",
+    "companyName": "-",
+    "companyEmail": "yochiyoshi64@gmail.com",
+    "h3po4": "-",
+    "freshWater": "-",
+    "emisiRefinery": "-",
+    "emisiFilling": "-",
+    "statusAI": "{\"error\":\"Key: 'UserRequest.Email' Error:Field validation for 'Email' failed on the 'required' tag\\nKey: 'UserRequest.Name' Error:Field validation for 'Name' failed on the 'required' tag\"}"
+  },
+  {
+    "id": 1791557130904,
+    "date": "09/10/2026",
+    "companyName": "-",
+    "companyEmail": "trihandayaninise@gmail.com",
+    "h3po4": "-",
+    "freshWater": "-",
+    "emisiRefinery": "-",
+    "emisiFilling": "-",
+    "statusAI": "{\"error\":\"Key: 'UserRequest.Email' Error:Field validation for 'Email' failed on the 'required' tag\\nKey: 'UserRequest.Name' Error:Field validation for 'Name' failed on the 'required' tag\"}"
+  },
+  {
+    "id": 1791556987839,
+    "date": "09/10/2026",
+    "companyName": "-",
+    "companyEmail": "cobaeksekusiyeorobunnn@gmail.com",
+    "h3po4": "-",
+    "freshWater": "-",
+    "emisiRefinery": "-",
+    "emisiFilling": "-",
+    "statusAI": "{\"error\":\"Key: 'UserRequest.Email' Error:Field validation for 'Email' failed on the 'required' tag\\nKey: 'UserRequest.Name' Error:Field validation for 'Name' failed on the 'required' tag\"}"
+  },
+  {
+    "id": 1791556611824,
+    "date": "09/10/2026",
+    "companyName": "-",
+    "companyEmail": "nisetrih@gmail.com",
+    "h3po4": "-",
+    "freshWater": "-",
+    "emisiRefinery": "-",
+    "emisiFilling": "-",
+    "statusAI": "{\"error\":\"Key: 'UserRequest.Email' Error:Field validation for 'Email' failed on the 'required' tag\\nKey: 'UserRequest.Name' Error:Field validation for 'Name' failed on the 'required' tag\"}"
+  }
+]
